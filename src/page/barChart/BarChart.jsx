@@ -1,5 +1,4 @@
-import React from "react";
-import { ResponsiveBar } from "@nivo/bar";
+
 import { Box } from "@mui/material";
 import Bar from "./bar";
 import Header from "../../components/Header";

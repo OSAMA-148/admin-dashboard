@@ -1,6 +1,4 @@
-import { Box } from "@mui/material";
-import React from "react";
-// @ts-ignore
+import { Box } from "@mui/material";// @ts-ignore
 import Line from "./Line";
 import Header from "../../components/Header";
 

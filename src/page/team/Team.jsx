@@ -1,4 +1,3 @@
-import React from "react";
 import { DataGrid } from "@mui/x-data-grid";
 import { rows } from "./data";
 import { useTheme } from "@mui/material";

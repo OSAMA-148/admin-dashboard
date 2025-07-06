@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, Paper, Stack, Typography, useTheme } from "@mui/material";
 import { ResponsivePie } from "@nivo/pie";
 

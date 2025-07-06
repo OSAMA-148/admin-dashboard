@@ -1,5 +1,3 @@
-import React from "react";
-import { ResponsivePie } from "@nivo/pie";
 import { Box } from "@mui/material";
 import Pie from "./pie";
 import Header from "../../components/Header";
