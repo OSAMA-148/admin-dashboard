@@ -5,33 +5,33 @@ import { Box, useTheme } from "@mui/material";
 
 const data = [
     {
-        id: "React",
-        label: "React",
-        value: 272,
+        id: "Vue",
+        label: "Vue",
+        value: 422,
         color: "hsl(107, 70%, 50%)",
     },
     {
-        id: "stylus",
-        label: "stylus",
-        value: 543,
+        id: "Svelte",
+        label: "Svelte",
+        value: 373,
         color: "hsl(64, 70%, 50%)",
     },
     {
-        id: "sass",
-        label: "sass",
+        id: "jQuery",
+        label: "jQuery",
         value: 401,
         color: "hsl(41, 70%, 50%)",
     },
     {
-        id: "haskell",
-        label: "haskell",
+        id: "Angular",
+        label: "Angular",
         value: 434,
         color: "hsl(172, 70%, 50%)",
     },
     {
-        id: "nue",
-        label: "nue",
-        value: 333,
+        id: "React",
+        label: "React",
+        value: 533,
         color: "hsl(219, 70%, 50%)",
     },
 ];
